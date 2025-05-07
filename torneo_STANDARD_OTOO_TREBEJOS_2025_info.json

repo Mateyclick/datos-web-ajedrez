@@ -1,0 +1,81 @@
+{
+  "nombreTorneo": "STANDARD OTOÑO TREBEJOS 2025",
+  "organizador": "Club de Ajedrez Los Trebejos",
+  "controlTiempo": "75 + 30\" /mov",
+  "numeroRondas": 5,
+  "tipoTorneo": "Sistema Suizo",
+  "fechas": "2025/04/28 al 2025/05/26",
+  "eloMedioTorneo": "1753",
+  "jugadores": [
+    {
+      "nombreCompleto": "Saralegui, Mario",
+      "titulo": "NM",
+      "elo": 2023
+    },
+    {
+      "nombreCompleto": "Guerrero, Alvaro",
+      "titulo": "NM",
+      "elo": 2022
+    },
+    {
+      "nombreCompleto": "Romero, Juan",
+      "titulo": "",
+      "elo": 1959
+    },
+    {
+      "nombreCompleto": "Rodriguez Farias, Eduardo",
+      "titulo": "",
+      "elo": 1935
+    },
+    {
+      "nombreCompleto": "Barboza, Mauro",
+      "titulo": "",
+      "elo": 1919
+    },
+    {
+      "nombreCompleto": "Avedisian, Alexander",
+      "titulo": "",
+      "elo": 1892
+    },
+    {
+      "nombreCompleto": "Pena Canapa, Alfredo",
+      "titulo": "",
+      "elo": 1862
+    },
+    {
+      "nombreCompleto": "Barros, Brian",
+      "titulo": "",
+      "elo": 1726
+    },
+    {
+      "nombreCompleto": "Pelaez, Diego",
+      "titulo": "",
+      "elo": 1721
+    },
+    {
+      "nombreCompleto": "Lejtreger, Ernesto",
+      "titulo": "",
+      "elo": 1712
+    },
+    {
+      "nombreCompleto": "Marquisio, Leonardo",
+      "titulo": "",
+      "elo": 1483
+    },
+    {
+      "nombreCompleto": "Souto, Andres",
+      "titulo": "",
+      "elo": 1482
+    },
+    {
+      "nombreCompleto": "Arrarte, Agustin",
+      "titulo": "",
+      "elo": 0
+    },
+    {
+      "nombreCompleto": "Ruiz, Nicolas",
+      "titulo": "",
+      "elo": 0
+    }
+  ]
+}
